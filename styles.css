@@ -1,1 +1,9 @@
 /* More arbitrary code */
+body {
+    background: purple;
+    font-family: "Georgia", "Garamond", "Times New Roman";
+}
+
+h1 {
+    color: yellow;
+}
